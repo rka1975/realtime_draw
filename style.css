@@ -1,0 +1,19 @@
+.heading{
+    font-size: 20px;
+}
+.note{
+    font-size: 15px;
+    color: rgb(37, 33, 33);
+}
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+h1{
+    box-shadow: 10px 10px 10px gray;
+    
+}
